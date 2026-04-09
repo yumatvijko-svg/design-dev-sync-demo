@@ -144,9 +144,9 @@ body {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  padding: 26px 32px; 
-  border-radius: 50px;
-  background-color: #181826;
+  padding: 16px 32px;
+  border-radius: 8px;
+  background-color: #493ff2;
   text-decoration: none;
   overflow: hidden;
   transition: transform 0.15s ease, box-shadow 0.15s ease;
