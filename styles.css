@@ -148,7 +148,7 @@ body {
   justify-content: center;
   padding: clamp(14px, 1.6vw, 16px) clamp(24px, 3vw, 32px);
   border-radius: 50px;
-  background-color: #493ff2;
+  background-color: #181826;
   text-decoration: none;
   overflow: hidden;
   transition: transform 0.15s ease, box-shadow 0.15s ease;
