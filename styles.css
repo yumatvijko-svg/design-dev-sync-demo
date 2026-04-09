@@ -144,9 +144,9 @@ body {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  padding: 16px 32px; /* Figma: py-[16px] px-[32px] on node 1:7 */
-  border-radius: 8px;
-  background-color: #493ff2;
+  padding: 26px 32px; 
+  border-radius: 50px;
+  background-color: #181826;
   text-decoration: none;
   overflow: hidden;
   transition: transform 0.15s ease, box-shadow 0.15s ease;
